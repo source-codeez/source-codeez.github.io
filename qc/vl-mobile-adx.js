@@ -7,7 +7,7 @@ var otherpopmax = 1
 
 var banner_preload = [
     [
-        "https://i.imgur.com/bT7gZqZ.png",
+        "../../../qc/lv_0_20240816112141.gif",
         "https://bitvn.co/JOY0",
     ],
     [
