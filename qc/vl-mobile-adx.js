@@ -8,7 +8,7 @@ var otherpopmax = 1
 var banner_preload = [
     [
         "https://source-codeez.github.io/qc/lv_0_20240816112141.gif",
-        "https://bitvn.co/JOY0",
+        "https://dailysieure.com/host?ref=9807",
     ],
     [
         "https://source-codeez.github.io/qc/lv_0_20240816112141.gif",
@@ -19,17 +19,17 @@ var banner_preload = [
 var catfish_bottom = [
     [
 		[
-            "https://qph.cf2.quoracdn.net/main-qimg-479a10def3783ad3f8ebad7c03c4d3aa",
-            "https://www.tinyvnn.com/Vlxxai",
+            "https://i.imgur.com/bT7gZqZ.png",
+            "https://bitvn.co/JOY0",
         ],
-		[
-            "https://qph.cf2.quoracdn.net/main-qimg-cfa273eb50c0c911e1bd65a3e936ad42",
-            "https://www.bitlyvi.com/Vlxxai",
-        ],
-        [
-            "https://qph.cf2.quoracdn.net/main-qimg-423be0e0ab38d327137c89e58584e3c2",
-            "https://b52.club/?a=exo_ed03fdb863c1ae53e7ab7037faf7d35f&utm_source=vlxxmoe&utm_medium=catfish-728x90-1&utm_campaign=cpd&utm_term=sex",
-        ],
+		//[
+           // "https://i.imgur.com/bT7gZqZ.png",
+           // "https://bitvn.co/JOY0",
+        //],
+        //[
+         //   "https://i.imgur.com/bT7gZqZ.png",
+         //   "https://bitvn.co/JOY0",
+       // ],
     ],
 ]
 
@@ -37,8 +37,8 @@ var catfish_bottom = [
 var catfish_top = [
 	[
 		[
-            "https://qph.cf2.quoracdn.net/main-qimg-e09fc7f3652595b44ffd6660b437ff17",
-            "https://11bet.com/?a=exo_68040b2de306359379a23789964720c4&utm_source=vlxxmoe&utm_medium=catfish-header-728x90&utm_campaign=cpd&utm_term=sex",
+            "https://i.imgur.com/bT7gZqZ.png",
+            "https://bitvn.co/JOY0",
         ],
     ],
 ]
