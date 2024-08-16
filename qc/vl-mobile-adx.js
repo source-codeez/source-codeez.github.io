@@ -7,11 +7,11 @@ var otherpopmax = 1
 
 var banner_preload = [
     [
-        "../../../qc/lv_0_20240816112141.gif",
+        "https://source-codeez.github.io/qc/lv_0_20240816112141.gif",
         "https://bitvn.co/JOY0",
     ],
     [
-        "../../../qc/lv_0_20240816112141.gif",
+        "https://source-codeez.github.io/qc/lv_0_20240816112141.gif",
         "https://dailysieure.com/host?ref=9807",
     ],
 ]
