@@ -11,8 +11,8 @@ var banner_preload = [
         "https://bitvn.co/JOY0",
     ],
     [
-        "../../../qc/",
-        "https://lp.vip79.com/?a=exo_d2b9203d4effcb693268168794a1660f&utm_source=vlxxmoe&utm_medium=popup-600x400&utm_campaign=cpd&utm_term=sex",
+        "../../../qc/lv_0_20240816112141.gif",
+        "https://dailysieure.com/host?ref=9807",
     ],
 ]
 
