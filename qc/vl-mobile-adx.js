@@ -1,17 +1,17 @@
 var check_Bots = 1
 var check_Country = 1
 
-var otherpop = "https://top88.vip/?a=exo_20fcd8445d6ef95eea15952599e2dce3&utm_source=vlxxmoe&utm_medium=popunder&utm_campaign=cpd&utm_term=sex"
+var otherpop = "https://dailysieure.com/host?ref=9807"
 var otherpopmax = 1
 
 
 var banner_preload = [
     [
-        "https://qph.cf2.quoracdn.net/main-qimg-824fe440b595cf8397b7649bba9fe477",
-        "https://lp.vip79.com/?a=exo_d2b9203d4effcb693268168794a1660f&utm_source=vlxxmoe&utm_medium=popup-600x400&utm_campaign=cpd&utm_term=sex",
+        "https://i.imgur.com/bT7gZqZ.png",
+        "https://bitvn.co/JOY0",
     ],
     [
-        "https://qph.cf2.quoracdn.net/main-qimg-824fe440b595cf8397b7649bba9fe477",
+        "../../../qc/",
         "https://lp.vip79.com/?a=exo_d2b9203d4effcb693268168794a1660f&utm_source=vlxxmoe&utm_medium=popup-600x400&utm_campaign=cpd&utm_term=sex",
     ],
 ]
