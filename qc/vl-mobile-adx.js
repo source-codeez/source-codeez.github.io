@@ -1,7 +1,7 @@
 var check_Bots = 1
 var check_Country = 1
 
-var otherpop = "https://dailysieure.com/host?ref=9807"
+var otherpop = "https://s.shopee.vn/9zeH9EnmzD"
 var otherpopmax = 1
 
 
@@ -20,15 +20,15 @@ var catfish_bottom = [
     [
 		[
             "https://i.imgur.com/bT7gZqZ.png",
-            "https://bitvn.co/JOY0",
+            "https://s.shopee.vn/9zeH9EnmzD",
         ],
 		//[
            // "https://i.imgur.com/bT7gZqZ.png",
-           // "https://bitvn.co/JOY0",
+           // "https://s.shopee.vn/9zeH9EnmzD",
         //],
         //[
          //   "https://i.imgur.com/bT7gZqZ.png",
-         //   "https://bitvn.co/JOY0",
+         //   "https://s.shopee.vn/9zeH9EnmzD",
        // ],
     ],
 ]
@@ -38,7 +38,7 @@ var catfish_top = [
 	[
 		[
             "https://i.imgur.com/bT7gZqZ.png",
-            "https://bitvn.co/JOY0",
+            "https://s.shopee.vn/9zeH9EnmzD",
         ],
     ],
 ]
