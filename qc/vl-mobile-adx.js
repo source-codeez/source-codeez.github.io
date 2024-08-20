@@ -7,20 +7,20 @@ var otherpopmax = 1
 
 var banner_preload = [
     [
-        "https://source-codeez.github.io/qc/lv_0_20240816112141.gif",
-        "https://dailysieure.com/host?ref=9807",
+        "https://i.imgur.com/l77Y0rs.png",
+        "https://my.hawkhost.com/aff.php?aff=17511",
     ],
     [
-        "https://source-codeez.github.io/qc/lv_0_20240816112141.gif",
-        "https://dailysieure.com/host?ref=9807",
+        "https://i.imgur.com/yh734y9.png",
+        "https://my.hawkhost.com/aff.php?aff=17511",
     ],
 ]
 
 var catfish_bottom = [
     [
 		[
-            "https://i.imgur.com/bT7gZqZ.png",
-            "https://s.shopee.vn/9zeH9EnmzD",
+            "https://i.imgur.com/yh734y9.png",
+            "https://my.hawkhost.com/aff.php?aff=17511",
         ],
 		//[
            // "https://i.imgur.com/bT7gZqZ.png",
@@ -37,8 +37,8 @@ var catfish_bottom = [
 var catfish_top = [
 	[
 		[
-            "https://i.imgur.com/bT7gZqZ.png",
-            "https://s.shopee.vn/9zeH9EnmzD",
+            "https://i.imgur.com/yh734y9.png",
+            "https://my.hawkhost.com/aff.php?aff=17511",
         ],
     ],
 ]
