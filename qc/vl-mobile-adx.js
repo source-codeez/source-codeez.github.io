@@ -1,35 +1,35 @@
 var check_Bots = 1
 var check_Country = 1
 
-var otherpop = "https://s.shopee.vn/9zeH9EnmzD"
+var otherpop = "https://dailysieure.com/host?ref=9807"
 var otherpopmax = 1
 
 
-var banner_preload = [
-    [
-        "https://i.imgur.com/l77Y0rs.png",
-        "https://my.hawkhost.com/aff.php?aff=17511",
-    ],
-    [
-        "https://i.imgur.com/yh734y9.png",
-        "https://my.hawkhost.com/aff.php?aff=17511",
-    ],
-]
+//var banner_preload = [
+   // [
+      //  "",
+     //   "",
+  //  ],
+  //  [
+     //   "",
+        //"",
+   // ],
+//]
 
 var catfish_bottom = [
     [
 		[
-            "https://i.imgur.com/yh734y9.png",
-            "https://my.hawkhost.com/aff.php?aff=17511",
+            "https://i.imgur.com/k8Yxh9J.png",
+            "https://kiemtien-online.net/auth/register?refcode=430",
         ],
-		//[
-           // "https://i.imgur.com/bT7gZqZ.png",
-           // "https://s.shopee.vn/9zeH9EnmzD",
-        //],
+		[
+            "https://i.imgur.com/mQXOWco.png",
+            "https://123host.vn/hosting-mien-phi.html?utm_source=INV&utm_medium=FHREF&utm_campaign=210477",
+        ],
         //[
-         //   "https://i.imgur.com/bT7gZqZ.png",
-         //   "https://s.shopee.vn/9zeH9EnmzD",
-       // ],
+           // "",
+          //  "",
+      //  ],
     ],
 ]
 
@@ -37,8 +37,8 @@ var catfish_bottom = [
 var catfish_top = [
 	[
 		[
-            "https://i.imgur.com/yh734y9.png",
-            "https://my.hawkhost.com/aff.php?aff=17511",
+            "https://i.imgur.com/mQXOWco.png",
+            "https://123host.vn/hosting-mien-phi.html?utm_source=INV&utm_medium=FHREF&utm_campaign=210477",
         ],
     ],
 ]
@@ -79,7 +79,7 @@ var codeAdx = function() {
 
         x.setAttribute('rel', "stylesheet")
 
-        x.setAttribute('href', "https://cdn.adxcontent.com/static/css/mobile-adx.css")
+        x.setAttribute('href', "../mobile-adx.css")
 
         document.head.append(x)
     })();
