@@ -5,16 +5,16 @@ var otherpop = "https://dailysieure.com/host?ref=9807"
 var otherpopmax = 1
 
 
-//var banner_preload = [
-   // [
-      //  "",
-     //   "",
-  //  ],
-  //  [
-     //   "",
-        //"",
-   // ],
-//]
+var banner_preload = [
+    [
+        "",
+        "",
+	    ],
+    [
+        "",
+        "",
+    ],
+]
 
 var catfish_bottom = [
     [
