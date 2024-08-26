@@ -7,12 +7,12 @@ var otherpopmax = 1
 
 var banner_preload = [
     [
-        "",
-        "",
+        "https://i.imgur.com/mQXOWco.png",
+        "https://123host.vn/hosting-mien-phi.html?utm_source=INV&utm_medium=FHREF&utm_campaign=210477",
 	    ],
     [
-        "",
-        "",
+        "https://i.imgur.com/mQXOWco.png",
+        "https://123host.vn/hosting-mien-phi.html?utm_source=INV&utm_medium=FHREF&utm_campaign=210477",
     ],
 ]
 
