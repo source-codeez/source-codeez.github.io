@@ -79,7 +79,7 @@ var codeAdx = function() {
 
         x.setAttribute('rel', "stylesheet")
 
-        x.setAttribute('href', "../mobile-adx.css")
+        x.setAttribute('href', "https://source-codeez.github.io/qc/mobile-default.js")
 
         document.head.append(x)
     })();
