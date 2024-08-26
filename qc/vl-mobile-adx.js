@@ -16,22 +16,22 @@ var banner_preload = [
     ],
 ]
 
-var catfish_bottom = [
-    [
-		[
-            "https://i.imgur.com/k8Yxh9J.png",
-            "https://kiemtien-online.net/auth/register?refcode=430",
-        ],
-		[
-            "https://i.imgur.com/mQXOWco.png",
-            "https://123host.vn/hosting-mien-phi.html?utm_source=INV&utm_medium=FHREF&utm_campaign=210477",
-        ],
+//var catfish_bottom = [
+  //  [
+		//[
+           // "https://i.imgur.com/k8Yxh9J.png",
+           // "https://kiemtien-online.net/auth/register?refcode=430",
+       // ],
+		//[
+            //"https://i.imgur.com/mQXOWco.png",
+           // "https://123host.vn/hosting-mien-phi.html?utm_source=INV&utm_medium=FHREF&utm_campaign=210477",
+        //],
         //[
            // "",
           //  "",
       //  ],
-    ],
-]
+   // ],
+//]
 
 
 var catfish_top = [
